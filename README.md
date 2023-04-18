@@ -1,5 +1,5 @@
 
-# Hola! I'm Andres Garay
+# Hello! I'm Andres Garay
 
 I am a full stack developer with the ability to work in a team, punctuality and commitment. Backend experience with Node, Express, Sequelize, postgress, mysql, php and its laravel framework. On the frontend javascript, css, html and frameworks like React, Redux, Bootstrap. Always in constant learning, looking for new challenges.
 
